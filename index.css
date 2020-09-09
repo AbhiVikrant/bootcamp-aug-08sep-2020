@@ -1,0 +1,78 @@
+body{background-color: rgb(178, 212, 151);
+font: normal 300 1em 'Open Sans',sans-serif;}
+h1{
+    color: #050303;
+    display: inline;
+    font-size: 6em;
+    padding: 10px;
+    margin: 5px;;
+}
+header{
+  border-width: thick;
+  background-color: #fffaf0;
+}
+.nav{
+    float: right;
+    margin-top: 30px;
+    margin-right: 700px;
+}
+#nav_list_type{
+   float:right;
+
+}
+#nav_list_type li{
+    float: left;
+    padding-right: 50px;
+}
+   
+#nav_list_type li a{
+    color: rgb(73, 27, 0);
+
+}
+#nav_list_type li a:hover{
+    color: #8a2be2;
+}
+#search-form{
+    float: right;
+    margin-top: 10px;
+    margin-left: 700px;
+}
+h2{text-align: center;}
+h3{margin-left: 20px;}
+.praveen-content{
+       margin: 30px 80px;
+       display: block;
+       border-style: dashed dashed;
+    
+}
+.yogi-content{
+    margin: 30px 80px;
+    display: block;
+    border-style: dashed dotted;
+}
+
+.collegues{
+    margin: 30px 80px;
+    display: block;
+}
+
+    table {
+        border: #00ffff;
+        width: 5px;
+        text-align: center;
+        margin: auto;
+        padding: 5px 10px 5px 10px;
+        border-collapse: collapse;
+}
+td th thead tbody tfoot{
+    border: 1px solid #999999;
+    padding: 0.5em;
+    text-align: center;
+}
+#reg_h3{
+    color: #8a2be2;
+    font-weight: 600;
+}
+footer{
+    text-align: center;
+}
